@@ -60,43 +60,14 @@
         "accent": "#3b82f6",
         "skills": [
           {
-            "name": "Python",
-            "src": "/images/python.svg"
-          },
-          {
             "name": "Node.js",
             "icon": "simple-icons:nodedotjs",
             "iconColor": "#5fa04e"
           },
           {
-            "name": "REST APIs",
+            "name": "API Design & Architecture",
             "icon": "mdi:api",
             "iconColor": "#38bdf8"
-          },
-          {
-            "name": "API Development & Integration",
-            "icon": "mdi:link-variant",
-            "iconColor": "#a855f7",
-            "note": "Custom and third-party services"
-          },
-          {
-            "name": "GeoServer",
-            "icon": "mdi:server-network",
-            "iconColor": "#38bdf8",
-            "note": "Spatial APIs, tiles, and geodata publishing"
-          },
-          {
-            "name": "Postman",
-            "icon": "logos:postman-icon"
-          },
-          {
-            "name": "Firebase",
-            "src": "/images/firebase.svg"
-          },
-          {
-            "name": "Supabase",
-            "icon": "simple-icons:supabase",
-            "iconColor": "#3ecf8e"
           },
           {
             "name": "Clerk Authentication",
@@ -108,22 +79,22 @@
       },
       {
         "key": "cloud",
-        "label": "Cloud & Infrastructure",
+        "label": "Cloud & Databases",
         "accent": "#8b5cf6",
         "skills": [
           {
             "name": "AWS",
             "icon": "simple-icons:amazonaws",
             "iconColor": "#ff9900",
-            "note": "Lambda, Bedrock, Amplify, IAM, DynamoDB"
+            "note": "Lambda, Bedrock, Amplify"
           },
           {
-            "name": "Google Cloud Platform",
+            "name": "Google Cloud Platform (GCP)",
             "icon": "logos:google-cloud",
             "note": "GCP services and deployments"
           },
           {
-            "name": "Cloudflare Workers",
+            "name": "Cloudflare",
             "src": "/images/cloudflare.svg",
             "note": "Workers, R2 storage, Cloudflare Images, and WAF"
           },
@@ -133,54 +104,9 @@
             "iconColor": "#ffffff"
           },
           {
-            "name": "Railway",
-            "icon": "simple-icons:railway",
-            "iconColor": "#ffffff"
-          },
-          {
-            "name": "CI/CD Pipelines",
-            "icon": "mdi:source-branch",
-            "iconColor": "#22c55e",
-            "note": "Automated build and release workflows"
-          }
-        ]
-      },
-      {
-        "key": "databases",
-        "label": "Databases",
-        "accent": "#22c55e",
-        "skills": [
-          {
-            "name": "MongoDB",
-            "src": "/images/mongodb.svg"
-          },
-          {
-            "name": "DynamoDB",
-            "icon": "simple-icons:amazondynamodb",
-            "iconColor": "#7aa2ff"
-          },
-          {
-            "name": "Supabase PostgreSQL",
+            "name": "PostgreSQL",
             "icon": "simple-icons:postgresql",
-            "iconColor": "#336791",
-            "note": "Supabase-managed Postgres"
-          },
-          {
-            "name": "PostGIS",
-            "icon": "simple-icons:postgresql",
-            "iconColor": "#336791",
-            "note": "Spatial indexing and geometry queries on PostgreSQL"
-          },
-          {
-            "name": "GeoJSON",
-            "icon": "mdi:code-json",
-            "iconColor": "#f59e0b",
-            "note": "Geospatial feature and geometry interchange"
-          },
-          {
-            "name": "Firebase Firestore",
-            "src": "/images/firebase.svg",
-            "note": "Cloud Firestore database design"
+            "iconColor": "#336791"
           }
         ]
       },
@@ -199,16 +125,15 @@
             "iconColor": "#ffffff"
           },
           {
-            "name": "Deployment & Hosting",
-            "icon": "mdi:cloud-upload-outline",
-            "iconColor": "#f59e0b",
-            "note": "Production hosting and rollouts"
+            "name": "CI/CD",
+            "icon": "mdi:source-branch",
+            "iconColor": "#22c55e",
+            "note": "Automated build and release workflows"
           },
           {
-            "name": "Performance Optimization",
-            "icon": "mdi:gauge",
-            "iconColor": "#06b6d4",
-            "note": "Fast loading, responsiveness, and UX"
+            "name": "Figma",
+            "icon": "simple-icons:figma",
+            "iconColor": "#f24e1e"
           }
         ]
       },
@@ -226,19 +151,19 @@
             "name": "WordPress",
             "icon": "simple-icons:wordpress",
             "iconColor": "#21759b"
+          },
+          {
+            "name": "Webflow",
+            "icon": "simple-icons:webflow",
+            "iconColor": "#146ef5"
           }
         ]
       },
       {
-        "key": "design",
-        "label": "Design & SEO",
+        "key": "seo",
+        "label": "SEO & Digital Marketing",
         "accent": "#14b8a6",
         "skills": [
-          {
-            "name": "Figma",
-            "icon": "simple-icons:figma",
-            "iconColor": "#f24e1e"
-          },
           {
             "name": "Technical SEO",
             "icon": "mdi:magnify-scan",
@@ -251,10 +176,30 @@
             "note": "LCP, CLS, and INP improvements"
           },
           {
-            "name": "Rendering Optimization",
-            "icon": "mdi:layers-triple-outline",
-            "iconColor": "#818cf8",
-            "note": "SSR, static rendering, and hydration"
+            "name": "Google Search Console",
+            "icon": "simple-icons:googlesearchconsole",
+            "iconColor": "#458cf5"
+          },
+          {
+            "name": "Meta Ads",
+            "icon": "simple-icons:meta",
+            "iconColor": "#0467df"
+          },
+          {
+            "name": "Content Writing",
+            "icon": "mdi:pencil-outline",
+            "iconColor": "#f59e0b"
+          },
+          {
+            "name": "Social Media Management",
+            "icon": "mdi:account-group-outline",
+            "iconColor": "#ec4899"
+          },
+          {
+            "name": "Social Media Analytics",
+            "icon": "mdi:chart-line",
+            "iconColor": "#22c55e",
+            "note": "Meta Business Suite, LinkedIn Analytics"
           }
         ]
       }

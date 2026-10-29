@@ -4,7 +4,7 @@
     "name": "Muhammad Usman",
     "heading": "Hay! I’m Usman",
     "typingText": ["I'm a Dev", 1500, "YOU'RE IN CLOUD!", 1500, "I TYPE, BUGS TAKE FLIGHT!", 1500],
-    "description": "Innovative engineer turning ideas into smooth, impactful digital experiences — focused on cloud technologies and GIS based systems.",
+    "description": "I build fast, well-optimized websites and help them get found through SEO, content and cloud-backed systems. I enjoy working on both the tech and the growth side of a product.",
     "btnText": "Let's Connect",
     "btnUrl": "contactus"
   },
@@ -276,7 +276,7 @@
         "duration": "SEP 2025 - MAY 2026",
         "jobType": "Full Time",
         "companyTitle": "MARKAZ",
-        "companyDescription": "At Markaz, I work on building and scaling modern web applications with a strong focus on performance and reliability. I develop full-stack features using Next.js and MongoDB, while leveraging Firebase for real-time data handling and authentication workflows. I also build and integrate backend APIs using AWS Lambda, and work with GCP Cloud Run and Cloud Functions for scalable cloud-based services. I optimize content delivery and application performance using Cloudflare services including Workers, R2 storage, Cloudflare Images, WAF, and CDN strategies, ensuring low latency, strong security, and high availability. My role involves designing efficient architectures, improving load times, and integrating scalable backend services to support growing user demand."
+        "companyDescription": "At Markaz, a Y Combinator-backed company, I build and scale web applications with Next.js, MongoDB and Firebase, and work with AWS Lambda, GCP Cloud Run and Cloudflare (Workers, R2, Images, WAF, CDN) for fast and secure delivery. I also lead SEO and performance work: Core Web Vitals, structured data and sitemap automation. This helped move key pages from the 4th page of Google to the first page and top positions, with organic clicks up 58% and impressions up 61% in 3 months."
       },
       {
         "designation": "FUll Stack Developer",
@@ -284,7 +284,7 @@
         "duration": "NOV 2024 - July 2025",
         "jobType": "Part Time",
         "companyTitle": "DigiTaluq",
-        "companyDescription": "During my time at DigiTaluq, I build smooth, high-performance websites primarily using Shopify, WordPress, HTML, CSS, JavaScript, React.js and Next js. I focus on creating responsive designs, optimizing SEO for better visibility, and delivering seamless user experiences that help businesses grow online."
+        "companyDescription": "At DigiTaluq, a digital agency, I built websites and e-commerce stores with Shopify, WordPress, React.js and Next.js. Beyond development, I designed graphics, did SEO and ran paid Meta Ads campaigns to help small businesses build their online presence."
       },
       
       {
@@ -293,7 +293,7 @@
         "duration": "JULY 2024 - OCT 2024",
         "jobType": "Full time",
         "companyTitle": "Daira Eng.",
-        "companyDescription": "I began my professional career at Daira Engineering, where I gained hands-on experience in modern web development. During my time there, I worked extensively with React and Tailwind CSS, building dynamic and responsive user interfaces. It was at Daira Engineering that I first explored Next.js and Node.js, deepening my understanding of full-stack development. This experience laid the foundation for my expertise in creating scalable web applications and integrating efficient front-end and back-end technologies."
+        "companyDescription": "I started my career at Daira Engineering, building responsive interfaces with React and Tailwind CSS. This is where I first worked with Next.js and Node.js and learned how to deliver as part of a team."
       }
     ]
   },
@@ -338,7 +338,7 @@
     },
     "contactImg": "/images/contact-us.png",
     "contactInfo": [
-      { "title": "Write an e-mail", "email": "mail@muhmdusman.site" },
+      { "title": "Write an e-mail", "email": "musman.be25igis@student.nust.edu.pk" },
       { "title": "conatct number", "tel": "+92 330 1358202" }
     ]
   }
