@@ -55,6 +55,77 @@
         ]
       },
       {
+        "key": "seo",
+        "label": "SEO & Digital Marketing",
+        "accent": "#14b8a6",
+        "skills": [
+          {
+            "name": "Technical SEO",
+            "icon": "mdi:magnify-scan",
+            "iconColor": "#38bdf8"
+          },
+          {
+            "name": "Core Web Vitals",
+            "icon": "mdi:heart-pulse",
+            "iconColor": "#ef4444",
+            "note": "LCP, CLS, and INP improvements"
+          },
+          {
+            "name": "Google Search Console",
+            "icon": "simple-icons:googlesearchconsole",
+            "iconColor": "#458cf5"
+          },
+          {
+            "name": "Meta Ads",
+            "icon": "simple-icons:meta",
+            "iconColor": "#0467df"
+          },
+          {
+            "name": "Content Writing",
+            "icon": "mdi:pencil-outline",
+            "iconColor": "#f59e0b"
+          },
+          {
+            "name": "Social Media Management",
+            "icon": "mdi:account-group-outline",
+            "iconColor": "#ec4899"
+          },
+          {
+            "name": "Social Media Analytics",
+            "icon": "mdi:chart-line",
+            "iconColor": "#22c55e",
+            "note": "Meta Business Suite, LinkedIn Analytics"
+          }
+        ]
+      },
+      {
+        "key": "cms",
+        "label": "CMS & Platforms",
+        "accent": "#ec4899",
+        "skills": [
+          {
+            "name": "Shopify",
+            "icon": "simple-icons:shopify",
+            "iconColor": "#7ab55c"
+          },
+          {
+            "name": "WordPress",
+            "icon": "simple-icons:wordpress",
+            "iconColor": "#21759b"
+          },
+          {
+            "name": "Webflow",
+            "icon": "simple-icons:webflow",
+            "iconColor": "#146ef5"
+          },
+          {
+            "name": "Framer",
+            "icon": "simple-icons:framer",
+            "iconColor": "#ffffff"
+          }
+        ]
+      },
+      {
         "key": "backend",
         "label": "Backend & APIs",
         "accent": "#3b82f6",
@@ -134,72 +205,6 @@
             "name": "Figma",
             "icon": "simple-icons:figma",
             "iconColor": "#f24e1e"
-          }
-        ]
-      },
-      {
-        "key": "cms",
-        "label": "CMS & Platforms",
-        "accent": "#ec4899",
-        "skills": [
-          {
-            "name": "Shopify",
-            "icon": "simple-icons:shopify",
-            "iconColor": "#7ab55c"
-          },
-          {
-            "name": "WordPress",
-            "icon": "simple-icons:wordpress",
-            "iconColor": "#21759b"
-          },
-          {
-            "name": "Webflow",
-            "icon": "simple-icons:webflow",
-            "iconColor": "#146ef5"
-          }
-        ]
-      },
-      {
-        "key": "seo",
-        "label": "SEO & Digital Marketing",
-        "accent": "#14b8a6",
-        "skills": [
-          {
-            "name": "Technical SEO",
-            "icon": "mdi:magnify-scan",
-            "iconColor": "#38bdf8"
-          },
-          {
-            "name": "Core Web Vitals",
-            "icon": "mdi:heart-pulse",
-            "iconColor": "#ef4444",
-            "note": "LCP, CLS, and INP improvements"
-          },
-          {
-            "name": "Google Search Console",
-            "icon": "simple-icons:googlesearchconsole",
-            "iconColor": "#458cf5"
-          },
-          {
-            "name": "Meta Ads",
-            "icon": "simple-icons:meta",
-            "iconColor": "#0467df"
-          },
-          {
-            "name": "Content Writing",
-            "icon": "mdi:pencil-outline",
-            "iconColor": "#f59e0b"
-          },
-          {
-            "name": "Social Media Management",
-            "icon": "mdi:account-group-outline",
-            "iconColor": "#ec4899"
-          },
-          {
-            "name": "Social Media Analytics",
-            "icon": "mdi:chart-line",
-            "iconColor": "#22c55e",
-            "note": "Meta Business Suite, LinkedIn Analytics"
           }
         ]
       }
